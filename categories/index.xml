@@ -1,39 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on DMStory - 大喵的故事</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://dmstory.github.io/categories/</link>
     <description>Recent content in Categories on DMStory - 大喵的故事</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <title>DMStory - 大喵的故事</title>
+      <url>https://dmstory.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dmstory.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
-    <copyright>DMStory By 董大喵 | &lt;a href=&#34;http://beian.miit.gov.cn&#34; target=&#34;_blank&#34;&gt;冀ICP备20009841号&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 03 Apr 2023 21:40:26 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 21:40:26 +0800</lastBuildDate>
+    <atom:link href="https://dmstory.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golang基础篇</title>
-      <link>http://localhost:1313/categories/golang%E5%9F%BA%E7%A1%80%E7%AF%87/</link>
+      <link>https://dmstory.github.io/categories/golang%E5%9F%BA%E7%A1%80%E7%AF%87/</link>
       <pubDate>Mon, 03 Apr 2023 21:40:26 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/golang%E5%9F%BA%E7%A1%80%E7%AF%87/</guid>
+      <guid>https://dmstory.github.io/categories/golang%E5%9F%BA%E7%A1%80%E7%AF%87/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Unity</title>
-      <link>http://localhost:1313/categories/unity/</link>
+      <link>https://dmstory.github.io/categories/unity/</link>
       <pubDate>Sun, 26 Jun 2022 11:12:15 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/unity/</guid>
+      <guid>https://dmstory.github.io/categories/unity/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/categories/hugo/</link>
+      <link>https://dmstory.github.io/categories/hugo/</link>
       <pubDate>Sun, 19 Dec 2021 15:01:14 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/hugo/</guid>
+      <guid>https://dmstory.github.io/categories/hugo/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

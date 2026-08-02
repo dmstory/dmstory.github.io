@@ -1,3 +1,0 @@
-p:not(.admonition-title):not(li>p):not(ul>p) {
-    text-indent: 2em;
-}

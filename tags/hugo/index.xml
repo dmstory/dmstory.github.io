@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on DMStory - 大喵的故事</title>
-    <link>http://localhost:1313/tags/hugo/</link>
+    <link>https://dmstory.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on DMStory - 大喵的故事</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <title>DMStory - 大喵的故事</title>
+      <url>https://dmstory.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dmstory.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
-    <copyright>DMStory By 董大喵 | &lt;a href=&#34;http://beian.miit.gov.cn&#34; target=&#34;_blank&#34;&gt;冀ICP备20009841号&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 19 Dec 2021 15:01:14 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Dec 2021 15:01:14 +0800</lastBuildDate>
+    <atom:link href="https://dmstory.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用Hugo快速建立静态网站</title>
-      <link>http://localhost:1313/post/use-hugo/</link>
+      <link>https://dmstory.github.io/posts/use-hugo/</link>
       <pubDate>Sun, 19 Dec 2021 15:01:14 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/use-hugo/</guid>
+      <guid>https://dmstory.github.io/posts/use-hugo/</guid>
       <description>&lt;p&gt;Hugo是一个开源的，用于快速生成静态站点的工具，同类型的工具还有&lt;a href=&#34;http://jekyllcn.com/&#34;&gt;jekyll&lt;/a&gt;和&lt;a href=&#34;https://hexo.io/zh-cn/&#34;&gt;Hexo&lt;/a&gt;。利用Hugo我们可以用MarkDown的格式书写内容，然后一键生成静态站点，非常方便。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

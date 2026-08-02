@@ -1,39 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>UGUI on DMStory - 大喵的故事</title>
-    <link>http://localhost:1313/tags/ugui/</link>
+    <link>https://dmstory.github.io/tags/ugui/</link>
     <description>Recent content in UGUI on DMStory - 大喵的故事</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <title>DMStory - 大喵的故事</title>
+      <url>https://dmstory.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dmstory.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
-    <copyright>DMStory By 董大喵 | &lt;a href=&#34;http://beian.miit.gov.cn&#34; target=&#34;_blank&#34;&gt;冀ICP备20009841号&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 26 Dec 2021 19:11:33 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/ugui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 19:11:33 +0800</lastBuildDate>
+    <atom:link href="https://dmstory.github.io/tags/ugui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>浅谈UGUI优化-网格合并</title>
-      <link>http://localhost:1313/post/ugui-optimize-rebatch/</link>
+      <link>https://dmstory.github.io/posts/ugui-optimize-rebatch/</link>
       <pubDate>Sun, 26 Dec 2021 19:11:33 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/ugui-optimize-rebatch/</guid>
+      <guid>https://dmstory.github.io/posts/ugui-optimize-rebatch/</guid>
       <description>&lt;p&gt;之前说到优化DrawCall可以降低CPU在渲染上的开销，那么是不是DrawCall越少就一定越好呢？单纯讨论DrawCall的话，确实是，但是如果为了合并DrawCall需要付出的代价很大，就会得不偿失。网格合并（Rebatch）就是UGUI解决DrawCall问题的代价之一。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>浅谈UGUI优化-网格重建</title>
-      <link>http://localhost:1313/post/ugui-optimize-rebuild/</link>
+      <link>https://dmstory.github.io/posts/ugui-optimize-rebuild/</link>
       <pubDate>Sun, 26 Dec 2021 14:22:20 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/ugui-optimize-rebuild/</guid>
+      <guid>https://dmstory.github.io/posts/ugui-optimize-rebuild/</guid>
       <description>&lt;p&gt;在优化的过程中，我们经常会听到Rebatch和Rebuild这两个词，很多人将这两个词混为一谈，其实它们之间虽然有关联但是本质上是两个过程。今天先聊一聊网格重建(Rebuild)，要理解这一过程，就需要先明白为什么会有网格，然后再讨论为什么会重建。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>浅谈UGUI优化-DrawCall篇</title>
-      <link>http://localhost:1313/post/ugui-optimize-drawcall/</link>
+      <link>https://dmstory.github.io/posts/ugui-optimize-drawcall/</link>
       <pubDate>Sat, 25 Dec 2021 11:34:43 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/ugui-optimize-drawcall/</guid>
+      <guid>https://dmstory.github.io/posts/ugui-optimize-drawcall/</guid>
       <description>&lt;p&gt;说起UGUI的优化，DrawCall一定是一个绕不开的话题。当然不只是UI优化，Unity中性能优化都会涉及DrawCall的优化。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
