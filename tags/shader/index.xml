@@ -15,9 +15,9 @@
     <atom:link href="https://dmstory.github.io/tags/shader/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用shader实现fillamount效果</title>
-      <link>https://dmstory.github.io/posts/unity-shader-sprite-fillamount/</link>
+      <link>https://dmstory.github.io/posts/unity/unity-shader-sprite-fillamount/</link>
       <pubDate>Sun, 26 Jun 2022 11:12:15 +0800</pubDate>
-      <guid>https://dmstory.github.io/posts/unity-shader-sprite-fillamount/</guid>
+      <guid>https://dmstory.github.io/posts/unity/unity-shader-sprite-fillamount/</guid>
       <description>&lt;p&gt;使用UGUI的Image可以轻松实现进度条的效果。但是有些情况下我们需要制作针对游戏世界中的物体的进度条，例如人物头顶的HP条，机器旁边的CD条等。常规的做法通过将世界坐标映射到UI，然后使用Image制作这些元素。当游戏世界中的物体
 位置改变的时候，需要通知UI去改变相应元素的位置，如果需要考虑摄像机对于进度条的影响，例如摄像机拉远时进度条变小，则会更加麻烦。&lt;/p&gt;
 &lt;p&gt;这里提供一种使用shader实现进度条的方案。测试环境：Unity 2020.3.32。&lt;/p&gt;</description>
