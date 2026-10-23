@@ -103,18 +103,18 @@
     </item>
     <item>
       <title>Golang基础篇-方法</title>
-      <link>https://dmstory.github.io/posts/golang-junior/golang-juinior-method/</link>
+      <link>https://dmstory.github.io/posts/golang-junior/golang-junior-method/</link>
       <pubDate>Tue, 03 May 2022 14:39:22 +0800</pubDate>
-      <guid>https://dmstory.github.io/posts/golang-junior/golang-juinior-method/</guid>
+      <guid>https://dmstory.github.io/posts/golang-junior/golang-junior-method/</guid>
       <description>&lt;h2 id=&#34;函数和方法的区别&#34;&gt;函数和方法的区别&lt;/h2&gt;
 &lt;p&gt;函数只是一段代码的执行过程，而方法往往会与某个类型的对象绑定。&lt;/p&gt;
 &lt;p&gt;方法是OOP的概念，在一个方法的实现中，我们可以通过特定方式访问对象的私有变量、方法，例如C类语言的this指针，Python的self等，在方法的调用过程中，对象往往被隐式传递。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Golang基础篇-异常处理</title>
-      <link>https://dmstory.github.io/posts/golang-junior/golang-juinior-panic-and-recover/</link>
+      <link>https://dmstory.github.io/posts/golang-junior/golang-junior-panic-and-recover/</link>
       <pubDate>Sat, 30 Apr 2022 10:57:15 +0800</pubDate>
-      <guid>https://dmstory.github.io/posts/golang-junior/golang-juinior-panic-and-recover/</guid>
+      <guid>https://dmstory.github.io/posts/golang-junior/golang-junior-panic-and-recover/</guid>
       <description>&lt;p&gt;Panic是指程序遇到了(或者由程序主动发起)运行时错误，此时，程序中的函数会立即停止执行，然后执行已经defer过的函数，随后，程序输出错误日志信息，停止运行。&lt;/p&gt;</description>
     </item>
     <item>
@@ -149,9 +149,9 @@
     </item>
     <item>
       <title>Golang基础篇-流程控制</title>
-      <link>https://dmstory.github.io/posts/golang-junior/golang-juinior-process-control/</link>
+      <link>https://dmstory.github.io/posts/golang-junior/golang-junior-process-control/</link>
       <pubDate>Tue, 18 Jan 2022 20:16:26 +0800</pubDate>
-      <guid>https://dmstory.github.io/posts/golang-junior/golang-juinior-process-control/</guid>
+      <guid>https://dmstory.github.io/posts/golang-junior/golang-junior-process-control/</guid>
       <description>&lt;p&gt;流程控制结构主要包括分支结构、循环结构、标签跳转。&lt;/p&gt;</description>
     </item>
     <item>
